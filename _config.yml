@@ -2,6 +2,9 @@
 title: ProSalesPlatforma
 timezone: Europe/Moscow
 collections:
+  pro100:
+    title: PRO100
+    output: true
   posts:
     title: Posts
     output: true
